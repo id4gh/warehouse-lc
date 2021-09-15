@@ -1,4 +1,4 @@
-package com.lc.warehouse.juc;
+package com.lc.warehouse.verificationcode.juc;
 
 
 import java.util.Random;

@@ -1,7 +1,5 @@
-package com.lc.warehouse.juc;
+package com.lc.warehouse.verificationcode.juc;
 
-
-import com.jayway.jsonpath.Criteria;
 
 import java.util.HashMap;
 import java.util.Map;
