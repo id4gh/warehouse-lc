@@ -1,4 +1,4 @@
-package com.lc.warehouse.cas;
+package com.lc.warehouse.verificationcode.cas;
 
 import sun.misc.Unsafe;
 

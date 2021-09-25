@@ -1,6 +1,6 @@
 package com.lc.warehouse.thread;
 
-import com.lc.warehouse.leetcode.Solution;
+import com.lc.warehouse.verificationcode.juc.thread.Wait;
 import org.junit.jupiter.api.Test;
 
 /**
@@ -17,7 +17,7 @@ class ThreadTest {
     @Test
     void wait1() {
 
-        com.lc.warehouse.verificationcode.test.Wait wait = new com.lc.warehouse.verificationcode.test.Wait();
+        Wait wait = new Wait();
 
         Thread threadA = new Thread(new Runnable() {
             @Override

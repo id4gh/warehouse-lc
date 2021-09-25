@@ -1,4 +1,4 @@
-package com.lc.warehouse.lock;
+package com.lc.warehouse.verificationcode.juc.lock;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

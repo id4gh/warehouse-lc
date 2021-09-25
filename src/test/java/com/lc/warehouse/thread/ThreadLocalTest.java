@@ -2,9 +2,6 @@ package com.lc.warehouse.thread;
 
 import org.junit.jupiter.api.Test;
 
-import java.util.ArrayList;
-import java.util.List;
-
 /**
  * @ClassName: ThreadLocalTest
  * @Author: mayanchao

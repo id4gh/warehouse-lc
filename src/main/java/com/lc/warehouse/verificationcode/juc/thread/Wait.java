@@ -1,4 +1,4 @@
-package com.lc.warehouse.verificationcode.test;
+package com.lc.warehouse.verificationcode.juc.thread;
 
 import java.util.ArrayDeque;
 import java.util.Queue;

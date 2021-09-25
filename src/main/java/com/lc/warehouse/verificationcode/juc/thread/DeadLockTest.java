@@ -1,4 +1,4 @@
-package com.lc.warehouse.thread;
+package com.lc.warehouse.verificationcode.juc.thread;
 
 /**
  * @ClassName: DeadLockTest

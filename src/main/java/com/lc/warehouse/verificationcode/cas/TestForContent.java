@@ -1,9 +1,4 @@
-package com.lc.warehouse.cas;
-
-import org.junit.jupiter.api.Test;
-import sun.misc.Contended;
-
-import java.io.*;
+package com.lc.warehouse.verificationcode.cas;
 
 /**
  * @ClassName: TestForContent

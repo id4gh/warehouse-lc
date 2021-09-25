@@ -1,4 +1,4 @@
-package com.lc.warehouse.verificationcode.juc;
+package com.lc.warehouse.verificationcode.juc.synchronizer;
 
 import java.util.concurrent.CountDownLatch;
 
