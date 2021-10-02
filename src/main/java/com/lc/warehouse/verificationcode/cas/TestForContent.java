@@ -3,7 +3,7 @@ package com.lc.warehouse.verificationcode.cas;
 /**
  * @ClassName: TestForContent
  * @Author: mayanchao
- * @Description: 伪公项（因为cpu和主内存之间添加了一级或多级高速缓冲存储器Cache，集成在cpu内部）
+ * @Description: 伪共享（因为cpu和主内存之间添加了一级或多级高速缓冲存储器Cache，集成在cpu内部）
  * @Date: 2021/5/27 下午4:33
  */
 public class TestForContent {
